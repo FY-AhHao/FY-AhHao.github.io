@@ -2,7 +2,7 @@
 
 ### 常用方法
 
-[源码地址]()
+[源码地址](https://github.com/FY-AhHao/learning-code/tree/main/zookeeperDemo/src/main/java/com/fy/zookeeper/case2)
 
 引入依赖
 
@@ -185,7 +185,7 @@ public class CuratorAPI {
 
 ### 事件监听
 
-[源码地址]()
+[源码地址](https://github.com/FY-AhHao/learning-code/tree/main/zookeeperDemo/src/main/java/com/fy/zookeeper/case3)
 
 简单监听，通过调用方法在控制台上看到监听只执行了一次
 

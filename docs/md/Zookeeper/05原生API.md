@@ -2,7 +2,7 @@
 
 ### 常用方法
 
-[源码地址]()
+[源码地址](https://github.com/FY-AhHao/learning-code/tree/main/zookeeperDemo/src/main/java/com/fy/zookeeper/case0)
 
 引入依赖
 
@@ -141,7 +141,7 @@ public class NativeAPI {
 
 ### 服务注册发现demo
 
-[源码地址]()
+[源码地址](https://github.com/FY-AhHao/learning-code/tree/main/zookeeperDemo/src/main/java/com/fy/zookeeper/case1)
 
 模拟服务的注册与发现，先启动客户端，一开始客户端打印的服务端列表是空的，启动服务端，观察客户端控制台，发现能够打印出刚刚注册的服务端
 
