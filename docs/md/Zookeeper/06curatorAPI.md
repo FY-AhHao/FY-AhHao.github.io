@@ -1,6 +1,4 @@
-## curator API
-
-### 常用方法
+## 常用方法
 
 [源码地址](https://github.com/FY-AhHao/learning-code/tree/main/zookeeperDemo/src/main/java/com/fy/zookeeper/case2)
 
@@ -183,7 +181,7 @@ public class CuratorAPI {
 }
 ```
 
-### 事件监听
+## 事件监听
 
 [源码地址](https://github.com/FY-AhHao/learning-code/tree/main/zookeeperDemo/src/main/java/com/fy/zookeeper/case3)
 

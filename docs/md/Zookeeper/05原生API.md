@@ -1,6 +1,4 @@
-## 原生api
-
-### 常用方法
+## 常用方法
 
 [源码地址](https://github.com/FY-AhHao/learning-code/tree/main/zookeeperDemo/src/main/java/com/fy/zookeeper/case0)
 
@@ -139,7 +137,7 @@ public class NativeAPI {
 }
 ```
 
-### 服务注册发现demo
+## 服务注册发现demo
 
 [源码地址](https://github.com/FY-AhHao/learning-code/tree/main/zookeeperDemo/src/main/java/com/fy/zookeeper/case1)
 
