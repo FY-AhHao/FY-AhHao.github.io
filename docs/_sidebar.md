@@ -4,6 +4,9 @@
     * [开闭原则](md/CodeDesign/02%E5%BC%80%E9%97%AD%E5%8E%9F%E5%88%99.md)
     * [里氏替换原则](md/CodeDesign/03%E9%87%8C%E6%B0%8F%E6%9B%BF%E6%8D%A2%E5%8E%9F%E5%88%99.md)
     * [迪米特法则](md/CodeDesign/04%E8%BF%AA%E7%B1%B3%E7%89%B9%E6%B3%95%E5%88%99.md)
+    * [接口隔离原则](md/CodeDesign/05%E6%8E%A5%E5%8F%A3%E9%9A%94%E7%A6%BB%E5%8E%9F%E5%88%99.md)
+    * [依赖倒置原则](md/CodeDesign/06%E4%BE%9D%E8%B5%96%E5%80%92%E7%BD%AE%E5%8E%9F%E5%88%99.md)
+    * [工厂模式](md/CodeDesign/06%E4%BE%9D%E8%B5%96%E5%80%92%E7%BD%AE%E5%8E%9F%E5%88%99.md)
     
 * Zookeeper
     * [入门](md/Zookeeper/01%E5%85%A5%E9%97%A8.md)
