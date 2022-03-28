@@ -7,6 +7,7 @@
     * [接口隔离原则](md/CodeDesign/05%E6%8E%A5%E5%8F%A3%E9%9A%94%E7%A6%BB%E5%8E%9F%E5%88%99.md)
     * [依赖倒置原则](md/CodeDesign/06%E4%BE%9D%E8%B5%96%E5%80%92%E7%BD%AE%E5%8E%9F%E5%88%99.md)
     * [工厂模式](md/CodeDesign/07%E5%B7%A5%E5%8E%82%E6%A8%A1%E5%BC%8F.md)
+    * [抽象工厂模式](md/CodeDesign/08%E6%8A%BD%E8%B1%A1%E5%B7%A5%E5%8E%82%E6%A8%A1%E5%BC%8F.md)
     
 * Zookeeper
     * [入门](md/Zookeeper/01%E5%85%A5%E9%97%A8.md)
