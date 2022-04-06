@@ -9,6 +9,8 @@
     * [工厂模式](md/CodeDesign/07%E5%B7%A5%E5%8E%82%E6%A8%A1%E5%BC%8F.md)
     * [抽象工厂模式](md/CodeDesign/08%E6%8A%BD%E8%B1%A1%E5%B7%A5%E5%8E%82%E6%A8%A1%E5%BC%8F.md)
     * [建造者模式](md/CodeDesign/09%E5%BB%BA%E9%80%A0%E8%80%85%E6%A8%A1%E5%BC%8F.md)
+    * [原型模式](md/CodeDesign/10%E5%8E%9F%E5%9E%8B%E6%A8%A1%E5%BC%8F.md)
+    * [单例模式](md/CodeDesign/11%E5%8D%95%E4%BE%8B%E6%A8%A1%E5%BC%8F.md)
     
 * Zookeeper
     * [入门](md/Zookeeper/01%E5%85%A5%E9%97%A8.md)
