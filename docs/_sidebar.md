@@ -1,16 +1,18 @@
 * 设计模式
     * [概述](md/CodeDesign/00%E6%A6%82%E8%BF%B0.md)
-    * [单一职责原则](md/CodeDesign/01%E5%8D%95%E4%B8%80%E8%81%8C%E8%B4%A3%E5%8E%9F%E5%88%99.md)
-    * [开闭原则](md/CodeDesign/02%E5%BC%80%E9%97%AD%E5%8E%9F%E5%88%99.md)
-    * [里氏替换原则](md/CodeDesign/03%E9%87%8C%E6%B0%8F%E6%9B%BF%E6%8D%A2%E5%8E%9F%E5%88%99.md)
-    * [迪米特法则](md/CodeDesign/04%E8%BF%AA%E7%B1%B3%E7%89%B9%E6%B3%95%E5%88%99.md)
-    * [接口隔离原则](md/CodeDesign/05%E6%8E%A5%E5%8F%A3%E9%9A%94%E7%A6%BB%E5%8E%9F%E5%88%99.md)
-    * [依赖倒置原则](md/CodeDesign/06%E4%BE%9D%E8%B5%96%E5%80%92%E7%BD%AE%E5%8E%9F%E5%88%99.md)
-    * [工厂模式](md/CodeDesign/07%E5%B7%A5%E5%8E%82%E6%A8%A1%E5%BC%8F.md)
-    * [抽象工厂模式](md/CodeDesign/08%E6%8A%BD%E8%B1%A1%E5%B7%A5%E5%8E%82%E6%A8%A1%E5%BC%8F.md)
-    * [建造者模式](md/CodeDesign/09%E5%BB%BA%E9%80%A0%E8%80%85%E6%A8%A1%E5%BC%8F.md)
-    * [原型模式](md/CodeDesign/10%E5%8E%9F%E5%9E%8B%E6%A8%A1%E5%BC%8F.md)
-    * [单例模式](md/CodeDesign/11%E5%8D%95%E4%BE%8B%E6%A8%A1%E5%BC%8F.md)
+    * 六大原则
+        * [单一职责原则](md/CodeDesign/01%E5%8D%95%E4%B8%80%E8%81%8C%E8%B4%A3%E5%8E%9F%E5%88%99.md)
+        * [开闭原则](md/CodeDesign/02%E5%BC%80%E9%97%AD%E5%8E%9F%E5%88%99.md)
+        * [里氏替换原则](md/CodeDesign/03%E9%87%8C%E6%B0%8F%E6%9B%BF%E6%8D%A2%E5%8E%9F%E5%88%99.md)
+        * [迪米特法则](md/CodeDesign/04%E8%BF%AA%E7%B1%B3%E7%89%B9%E6%B3%95%E5%88%99.md)
+        * [接口隔离原则](md/CodeDesign/05%E6%8E%A5%E5%8F%A3%E9%9A%94%E7%A6%BB%E5%8E%9F%E5%88%99.md)
+        * [依赖倒置原则](md/CodeDesign/06%E4%BE%9D%E8%B5%96%E5%80%92%E7%BD%AE%E5%8E%9F%E5%88%99.md)
+    * 创建型模式    
+        * [工厂模式](md/CodeDesign/07%E5%B7%A5%E5%8E%82%E6%A8%A1%E5%BC%8F.md)
+        * [抽象工厂模式](md/CodeDesign/08%E6%8A%BD%E8%B1%A1%E5%B7%A5%E5%8E%82%E6%A8%A1%E5%BC%8F.md)
+        * [建造者模式](md/CodeDesign/09%E5%BB%BA%E9%80%A0%E8%80%85%E6%A8%A1%E5%BC%8F.md)
+        * [原型模式](md/CodeDesign/10%E5%8E%9F%E5%9E%8B%E6%A8%A1%E5%BC%8F.md)
+        * [单例模式](md/CodeDesign/11%E5%8D%95%E4%BE%8B%E6%A8%A1%E5%BC%8F.md)
     
 * Zookeeper
     * [入门](md/Zookeeper/01%E5%85%A5%E9%97%A8.md)
